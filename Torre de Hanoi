@@ -1,0 +1,1 @@
+Realizar un programa que resuelva la torre de Hanoi, se deberá recibir un valor n, que será la cantidad de piezas a mover, la salida será cada uno de los movimientos necesarios para resolverlo, recordando que no podemos poner una pieza de mayor tamaño sobre otra de menor tamaño.
